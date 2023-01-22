@@ -1,0 +1,1 @@
+# A simple Deobfuscator for javascript
